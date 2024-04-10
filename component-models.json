@@ -135,7 +135,7 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "image",
+        "name": "fileReference",
         "label": "Image",
         "multi": false
       },
